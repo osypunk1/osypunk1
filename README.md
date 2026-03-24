@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Darlington offor-ugwuka
+Level 5 Digital student at UA92, Mancheser. 
+
+## About Me
+I’m currently studying Databases management, with a strong interest in becoming a computer Engineer. I enjoy understanding how systems work, identifying vulnerabilities, and learning how to protect data and networks from threats. I’m always looking to improve my technical skills.
+
+## Skills
+SQL, Python, HTML/CSS/JS
+
+## Get in Touch
+Linkedin- https://www.linkedin.com/in/darlington-offorugwuka
 
 <!--
 **osypunk1/osypunk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
